@@ -1,5 +1,4 @@
 User-agent: *
 allow: /
 
-Sitemap: https://example.com/my_sitemap.xml
-
+Sitemap: https://bautagebuch.github.io/sitemap.xml
