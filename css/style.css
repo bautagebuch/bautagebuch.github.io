@@ -2,3 +2,7 @@
     text-align: right; 
     white-space: nowrap;
 }
+
+.indented-cell-text {
+    padding-left: 25px;
+}
